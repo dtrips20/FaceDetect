@@ -1,0 +1,11 @@
+*.egg-info
+*.pyc
+.terraform
+*.tfstate*
+*.idea
+*.manifest
+.coverage
+*venv/
+*.zip
+*.vscode
+*.cache
